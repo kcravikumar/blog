@@ -1,4 +1,4 @@
-function Al{
+function hello1{
   alert(11) ;
 
     if (window.jQuery) {  
