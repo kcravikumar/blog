@@ -1,5 +1,5 @@
 function Al{
-alert(1) ;
+alert(11) ;
 
     if (window.jQuery) {  
         // jQuery is loaded  
@@ -10,5 +10,5 @@ alert(1) ;
     }
 
 
-alert(2) ;
+alert(22) ;
 }
